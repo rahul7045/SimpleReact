@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/SimpleReact/static/js/main.570c33cc.js",
+    "index.html": "/SimpleReact/index.html",
+    "main.570c33cc.js.map": "/SimpleReact/static/js/main.570c33cc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.570c33cc.js"
+  ]
+}
